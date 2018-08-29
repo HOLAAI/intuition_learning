@@ -10,9 +10,7 @@ Example projects for intuition of machine learning
 
 - Logistic Regression 구현 및 이해
 
-- simple neuron network
-
-- XOR 문제 구현 By neuron network
+- XOR 문제 구현 By simple neuron network
 
 - CIFAR-10 classification By neuron network
 
