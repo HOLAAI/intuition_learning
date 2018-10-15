@@ -15,7 +15,7 @@ input_layer_n = 2
 hidden_layer_n = 3
 output_layer_n = 1
 
-### XOR 로직을 테스트 할수 있게 입력값 제공 , X[0] 는 vectorization 구현시 bais 값을 위한 셋팅
+### XOR 로직을 테스트 할수 있게 입력값 제공 , X[0] 는 vectorization 구현시 bias 값을 위한 셋팅
 X = np.array([[1, 0, 0], [1, 0, 1], [1, 1, 0], [1, 1, 1]])
 #Y = np.array([[0], [1], [1], [1]])
 Y = np.array([[0], [1], [1], [0]])

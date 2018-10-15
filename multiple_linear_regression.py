@@ -14,7 +14,7 @@ def real_h(X) :
 
 
 
-### x[0] is theta0,  bais 를 만들어야 하기 때문에 X[0] = 1
+### x[0] is theta0,  bias 를 만들어야 하기 때문에 X[0] = 1
 X = np.array([
     [1, 1, 2, 3, 4],
     [1, 5, 6, 7, 8],
